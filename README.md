@@ -12,8 +12,7 @@ My finance background gives me a different lens on DeFi—I understand both the 
 
 - 🏗️ Deep diving into DeFi protocol design patterns and architecture
 - 🔐 Security-first smart contract development
-- 📚 Learning from Cyfrin Updraft and Alchemy University
-- ⚡ Building with Foundry for testing and deployment
+
 
 **Long-term goal:** 🚀 Launch my own DeFi protocol. Right now, I'm mastering the architecture and security fundamentals to make that happen.
 
