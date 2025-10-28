@@ -6,7 +6,7 @@ From trading desks to smart contracts. I spent years as a financial analyst and 
 
 I'm a Solidity developer focused on **DeFi protocol architecture** and **security**. I split my time between building smart contracts and helping Web3 projects grow their ecosystems.
 
-My finance background gives me a different lens on DeFi—I understand both the financial mechanics and the technical implementation. That combination is what I bring to every protocol I work on.
+My finance background gives me a different lens on DeFi. I understand both the financial mechanics and the technical implementation. That combination is what I bring to every protocol I work on.
 
 ## 🎯 Current Focus
 
