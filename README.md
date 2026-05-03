@@ -25,7 +25,7 @@ My finance background gives me a different lens on DeFi. I understand both the f
 
 ## 💡 Why Blockchain?
 
-I got into crypto because I wanted to be early to something revolutionary. The combination of financial innovation and decentralized tech was too interesting to ignore. Three years in, I'm more convinced than ever that we're building the future of finance.
+I got into crypto because I wanted to be early to something revolutionary. The combination of financial innovation and decentralized tech was too interesting to ignore. Now years in, I'm more convinced than ever that we're building the future of finance.
 
 ## 📫 Let's Connect
 
